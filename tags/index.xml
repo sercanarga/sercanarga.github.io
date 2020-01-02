@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sercan Arğa</title>
+    <link>https://sercanarga.com/tags/</link>
+    <description>Recent content in Tags on Sercan Arğa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Thu, 02 Jan 2020 18:58:31 +0300</lastBuildDate>
+    
+	<atom:link href="https://sercanarga.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://sercanarga.com/tags/hello-world/</link>
+      <pubDate>Thu, 02 Jan 2020 18:58:31 +0300</pubDate>
+      
+      <guid>https://sercanarga.com/tags/hello-world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
